@@ -1,7 +1,8 @@
 #include <stdio.h>
 
-/* main: Entry point
- *
+/**
+ *main: Entry point
+ *Description: This program's prinf a message on the screen
  * return: Always 0: Success
  *
  * printf: Print something on the screen

@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main: Entry point
- * Description: This program return the sizeof 
+ * main- Entry point
+ * Description: 'This program return the sizeof'
  * Return: Always 0 (Success)
  */
 

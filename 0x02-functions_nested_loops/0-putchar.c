@@ -1,13 +1,20 @@
-#include <stdlib.h>
-#include <stdio.h>
+#include "main.h"
 /**
- * main - Entry point
- * Description 'This program print _putchar'
- * return 0; Always(Success)
- *
-*/
+ * main - Entry Block
+  *Description: prints _putchar followed by a new line
+ * Return: 0
+ */
 int main(void)
 {
-	printf("_putchar");
-	return 0;
+	char c[8] = "_putchar";
+
+	int i = 0;
+
+	while (i < 8)
+	{
+		_putchar(c[i]);
+		i++;
+	}
+	_putchar("\n");
+	return (0);
 }

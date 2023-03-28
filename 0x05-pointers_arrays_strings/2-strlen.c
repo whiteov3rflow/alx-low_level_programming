@@ -1,5 +1,4 @@
 #include "main.h"
-#include <stdio.h>
 /**
  * int_strlen - return lenght of a given string
  * @s: String to be checked
@@ -8,6 +7,12 @@
 
 int_strlen(char *s)
 {
-	int c = *s
-	return strlen(c);	
+	int i;
+	i = 0;
+
+	while(s[i] != '\0')
+	{
+		i++;
+	}
+	return (i);
 }

@@ -17,5 +17,5 @@ void _puts(char *str)
 
 		i++;
 	}
-	_putchat('\n');
+	_putchar('\n');
 }

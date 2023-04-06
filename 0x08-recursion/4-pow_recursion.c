@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * _pow_recursion: Funtion that return x power y recursively
- * @x: The int to pow
- * @y: The base
- * Return: An int
+ * _pow_recursion - Function that return x power y recursively
+ * @x: The base value whose power is to be calculated
+ * @y: The power value
+ * Return: int
  */
 int _pow_recursion(int x, int y)
 {

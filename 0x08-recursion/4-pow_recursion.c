@@ -3,7 +3,7 @@
  * _pow_recursion: Funtion that return x power y recursively
  * @x: The int to pow
  * @y: The base
- * Return: An int  
+ * Return: An int
  */
 int _pow_recursion(int x, int y)
 {

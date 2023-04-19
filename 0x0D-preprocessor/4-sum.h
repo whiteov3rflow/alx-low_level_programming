@@ -1,5 +1,5 @@
 #ifndef SUM
 
-#define SUM ((a) + (b))
+#define SUM ((x) + (y))
 
 #endif
